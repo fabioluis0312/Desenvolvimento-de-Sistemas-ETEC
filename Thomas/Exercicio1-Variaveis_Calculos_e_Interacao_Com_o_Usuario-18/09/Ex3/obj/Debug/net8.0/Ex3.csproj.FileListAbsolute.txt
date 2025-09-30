@@ -1,0 +1,15 @@
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex3/bin/Debug/net8.0/Ex3
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex3/bin/Debug/net8.0/Ex3.deps.json
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex3/bin/Debug/net8.0/Ex3.runtimeconfig.json
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex3/bin/Debug/net8.0/Ex3.dll
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex3/bin/Debug/net8.0/Ex3.pdb
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex3/obj/Debug/net8.0/Ex3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex3/obj/Debug/net8.0/Ex3.AssemblyInfoInputs.cache
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex3/obj/Debug/net8.0/Ex3.AssemblyInfo.cs
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex3/obj/Debug/net8.0/Ex3.csproj.CoreCompileInputs.cache
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex3/obj/Debug/net8.0/Ex3.sourcelink.json
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex3/obj/Debug/net8.0/Ex3.dll
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex3/obj/Debug/net8.0/refint/Ex3.dll
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex3/obj/Debug/net8.0/Ex3.pdb
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex3/obj/Debug/net8.0/Ex3.genruntimeconfig.cache
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex3/obj/Debug/net8.0/ref/Ex3.dll
