@@ -1,0 +1,15 @@
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula-09-10-25/Aula0910/bin/Debug/net8.0/Aula0210
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula-09-10-25/Aula0910/bin/Debug/net8.0/Aula0210.deps.json
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula-09-10-25/Aula0910/bin/Debug/net8.0/Aula0210.runtimeconfig.json
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula-09-10-25/Aula0910/bin/Debug/net8.0/Aula0210.dll
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula-09-10-25/Aula0910/bin/Debug/net8.0/Aula0210.pdb
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula-09-10-25/Aula0910/obj/Debug/net8.0/Aula0210.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula-09-10-25/Aula0910/obj/Debug/net8.0/Aula0210.AssemblyInfoInputs.cache
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula-09-10-25/Aula0910/obj/Debug/net8.0/Aula0210.AssemblyInfo.cs
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula-09-10-25/Aula0910/obj/Debug/net8.0/Aula0210.csproj.CoreCompileInputs.cache
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula-09-10-25/Aula0910/obj/Debug/net8.0/Aula0210.sourcelink.json
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula-09-10-25/Aula0910/obj/Debug/net8.0/Aula0210.dll
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula-09-10-25/Aula0910/obj/Debug/net8.0/refint/Aula0210.dll
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula-09-10-25/Aula0910/obj/Debug/net8.0/Aula0210.pdb
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula-09-10-25/Aula0910/obj/Debug/net8.0/Aula0210.genruntimeconfig.cache
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula-09-10-25/Aula0910/obj/Debug/net8.0/ref/Aula0210.dll
