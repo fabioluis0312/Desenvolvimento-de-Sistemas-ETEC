@@ -1,0 +1,15 @@
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula1-PrimeiroAPP/PrimeiroAPP/bin/Debug/net8.0/PrimeiroAPP
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula1-PrimeiroAPP/PrimeiroAPP/bin/Debug/net8.0/PrimeiroAPP.deps.json
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula1-PrimeiroAPP/PrimeiroAPP/bin/Debug/net8.0/PrimeiroAPP.runtimeconfig.json
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula1-PrimeiroAPP/PrimeiroAPP/bin/Debug/net8.0/PrimeiroAPP.dll
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula1-PrimeiroAPP/PrimeiroAPP/bin/Debug/net8.0/PrimeiroAPP.pdb
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula1-PrimeiroAPP/PrimeiroAPP/obj/Debug/net8.0/PrimeiroAPP.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula1-PrimeiroAPP/PrimeiroAPP/obj/Debug/net8.0/PrimeiroAPP.AssemblyInfoInputs.cache
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula1-PrimeiroAPP/PrimeiroAPP/obj/Debug/net8.0/PrimeiroAPP.AssemblyInfo.cs
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula1-PrimeiroAPP/PrimeiroAPP/obj/Debug/net8.0/PrimeiroAPP.csproj.CoreCompileInputs.cache
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula1-PrimeiroAPP/PrimeiroAPP/obj/Debug/net8.0/PrimeiroAPP.sourcelink.json
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula1-PrimeiroAPP/PrimeiroAPP/obj/Debug/net8.0/PrimeiroAPP.dll
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula1-PrimeiroAPP/PrimeiroAPP/obj/Debug/net8.0/refint/PrimeiroAPP.dll
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula1-PrimeiroAPP/PrimeiroAPP/obj/Debug/net8.0/PrimeiroAPP.pdb
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula1-PrimeiroAPP/PrimeiroAPP/obj/Debug/net8.0/PrimeiroAPP.genruntimeconfig.cache
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula1-PrimeiroAPP/PrimeiroAPP/obj/Debug/net8.0/ref/PrimeiroAPP.dll
