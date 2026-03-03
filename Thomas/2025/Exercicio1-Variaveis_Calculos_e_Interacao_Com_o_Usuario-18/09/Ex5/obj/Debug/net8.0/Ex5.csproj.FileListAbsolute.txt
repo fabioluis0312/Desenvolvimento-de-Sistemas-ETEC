@@ -1,0 +1,15 @@
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/bin/Debug/net8.0/Ex5
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/bin/Debug/net8.0/Ex5.deps.json
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/bin/Debug/net8.0/Ex5.runtimeconfig.json
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/bin/Debug/net8.0/Ex5.dll
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/bin/Debug/net8.0/Ex5.pdb
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/obj/Debug/net8.0/Ex5.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/obj/Debug/net8.0/Ex5.AssemblyInfoInputs.cache
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/obj/Debug/net8.0/Ex5.AssemblyInfo.cs
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/obj/Debug/net8.0/Ex5.csproj.CoreCompileInputs.cache
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/obj/Debug/net8.0/Ex5.sourcelink.json
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/obj/Debug/net8.0/Ex5.dll
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/obj/Debug/net8.0/refint/Ex5.dll
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/obj/Debug/net8.0/Ex5.pdb
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/obj/Debug/net8.0/Ex5.genruntimeconfig.cache
+/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/obj/Debug/net8.0/ref/Ex5.dll
