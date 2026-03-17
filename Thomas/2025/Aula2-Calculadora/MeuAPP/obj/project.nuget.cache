@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Bh1CDDFYvas=",
+  "dgSpecHash": "8vKLFHcr8j4=",
   "success": true,
-  "projectFilePath": "/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula2-Calculadora/MeuAPP/MeuAPP.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/fabio/Documentos/DS/Thomas/2025/Aula2-Calculadora/MeuAPP/MeuAPP.csproj",
+  "expectedPackageFiles": [
+    "/home/fabio/.nuget/packages/microsoft.netcore.app.ref/8.0.25/microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "/home/fabio/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "/home/fabio/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.25/microsoft.netcore.app.host.linux-x64.8.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

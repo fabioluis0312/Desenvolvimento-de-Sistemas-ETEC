@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/Ex5.csproj": {}
+    "/home/fabio/Documentos/DS/Thomas/2025/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario-18/09/Ex5/Ex5.csproj": {}
   },
   "projects": {
-    "/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/Ex5.csproj": {
+    "/home/fabio/Documentos/DS/Thomas/2025/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario-18/09/Ex5/Ex5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/Ex5.csproj",
+        "projectUniqueName": "/home/fabio/Documentos/DS/Thomas/2025/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario-18/09/Ex5/Ex5.csproj",
         "projectName": "Ex5",
-        "projectPath": "/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/Ex5.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario/Ex5/obj/",
+        "projectPath": "/home/fabio/Documentos/DS/Thomas/2025/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario-18/09/Ex5/Ex5.csproj",
+        "packagesPath": "/home/fabio/.nuget/packages/",
+        "outputPath": "/home/fabio/Documentos/DS/Thomas/2025/Exercicio1-Variaveis_Calculos_e_Interacao_Com_o_Usuario-18/09/Ex5/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/home/fabio/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,7 +38,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -53,12 +55,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.104/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

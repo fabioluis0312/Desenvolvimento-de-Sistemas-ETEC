@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ivebkOWk/rQ=",
+  "dgSpecHash": "BkpvGYN9q54=",
   "success": true,
-  "projectFilePath": "/workspaces/Desenvolvimento-de-Sistemas-ETEC-/Thomas/Aula-09-10-25/Atividade/Ex/Ex.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/fabio/Documentos/DS/Thomas/2025/Aula-09-10-25/Atividade/Ex/Ex.csproj",
+  "expectedPackageFiles": [
+    "/home/fabio/.nuget/packages/microsoft.netcore.app.ref/8.0.25/microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "/home/fabio/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "/home/fabio/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.25/microsoft.netcore.app.host.linux-x64.8.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
